@@ -21,6 +21,6 @@
 * [ ] Code compiles correctly both in `debug` and `release` mode
 * [ ] `npm run prepublishOnly` command generates all necessary release assets
 * [ ] No new compiler warnings were introduced 
-* [ ] Extended the readme / documentation / CLI help / man file(s) (where applicable)
-* [ ] Dependent changes have been merged and published in downstream modules (if applicable)
+* [ ] Extended the readme / documentation / CLI help / man file(s) (_where applicable_)
+* [ ] Dependent changes have been merged and published in downstream modules (_if applicable_)
 * [ ] All Continuous Integration builds and security checks pass
