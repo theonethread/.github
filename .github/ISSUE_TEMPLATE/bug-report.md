@@ -15,3 +15,5 @@ assignees: ""
 * What packages or other dependencies you're using
 * The behavior you expect to see, and the actual behavior
 * Optional screenshots
+
+> _**SEE:** [Contribution Guidelines](https://github.com/theonethread/.github/blob/master/.github/contributing.md "Open")_
