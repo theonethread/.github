@@ -10,8 +10,8 @@
 
 ## Does this introduce a breaking change?
 
-- [ ] Yes
-- [ ] No
+* [ ] Yes
+* [ ] No
 
 ## PR Checklist
 
