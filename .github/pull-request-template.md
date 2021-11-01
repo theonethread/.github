@@ -18,7 +18,7 @@
 
 * [ ] Read the [Contribution Guidelines](https://github.com/theonethread/.github/blob/master/.github/contributing.md "Open")
 * [ ] Code compiles correctly both in `debug` and `release` mode
-* [ ] `npm run prepublishOnly` command generates all necessary release assets
+* [ ] Ensured that `npm run prepublishOnly` command generates all necessary release assets
 * [ ] No new compiler warnings were introduced 
 * [ ] Extended the readme / documentation / CLI help / man file(s) (_where applicable_)
 * [ ] Dependent changes have been merged and published in downstream modules (_if applicable_)
