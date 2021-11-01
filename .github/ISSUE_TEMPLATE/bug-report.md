@@ -12,3 +12,4 @@ assignees: ''
 * What version of the package involved you're using, and the platform(s) you're running it on
 * What packages or other dependencies you're using
 * The behavior you expect to see, and the actual behavior
+* Optional screenshots
