@@ -8,7 +8,7 @@ First off, thanks for taking the time to contribute, all types of contributions 
 * Test and triage bugs reported by others
 * Work on requested / approved features
 * Improve the codebase (linting, naming, comments, etc.)
-* Improve the documentation
+* Improve the documentation (extend descriptions, add examples, fix typos, etc.)
 
 > _And if you like the project, but just don't have time to contribute, that's fine. There are other easy ways to support the project and show your appreciation, which we would also be very happy about:_
 > - _Star the project_
