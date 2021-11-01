@@ -12,5 +12,5 @@ If it fixes a bug or resolves a feature request, be sure to link to that issue.
 * [ ] Code compiles correctly both in `debug` and `release` mode
 * [ ] No new compiler warnings introduced 
 * [ ] Extended the readme / documentation / CLI help / man file(s) where applicable
-* [ ] Any dependent changes have been merged and published in downstream modules
+* [ ] Dependent changes have been merged and published in downstream modules if applicable
 * [ ] All Continuous Integration builds and security checks pass
