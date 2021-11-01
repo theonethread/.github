@@ -14,8 +14,7 @@
 * [ ] No
 
 ## PR Checklist
-
-> _You can also fill these out after creating the PR. If you're unsure about any of them, don't hesitate to ask._
+<!-- You can also fill these out after creating the PR. If you're unsure about any of them, don't hesitate to ask. -->
 
 * [ ] Read the [Contribution Guidelines](https://github.com/theonethread/.github/blob/master/.github/contributing.md "Open")
 * [ ] Code compiles correctly both in `debug` and `release` mode
