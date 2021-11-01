@@ -1,9 +1,9 @@
 ---
 name: Bug Report
-about: 'When reporting a bug, please be sure to include the following:'
-title: ''
+about: "When reporting a bug, please be sure to include the following:"
+title: ""
 labels: bug
-assignees: ''
+assignees: ""
 
 ---
 

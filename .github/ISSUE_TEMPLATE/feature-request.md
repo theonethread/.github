@@ -1,10 +1,10 @@
 ---
 name: Feature Request
-about: 'When you open an issue for a feature request, please add as much detail as
-  possible:'
-title: ''
+about: "When you open an issue for a feature request, please add as much detail as
+  possible:"
+title: ""
 labels: enhancement
-assignees: ''
+assignees: ""
 
 ---
 
