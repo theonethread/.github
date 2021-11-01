@@ -1,11 +1,13 @@
 ---
-name: Bug Report
-about: "When reporting a bug, please be sure to include the following:"
+name: Bug Reports
+about: "Report newly found bugs"
 title: ""
 labels: bug
 assignees: ""
 
 ---
+
+### When reporting a bug, please be sure to include the following:
 
 * A descriptive title
 * An **isolated** way to reproduce the behavior (example: GitHub repository with code isolated to the issue that anyone can clone to observe the problem)

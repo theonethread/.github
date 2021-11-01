@@ -1,12 +1,13 @@
 ---
 name: Feature Request
-about: "When you open an issue for a feature request, please add as much detail as
-  possible:"
+about: "Request new features"
 title: ""
 labels: enhancement
 assignees: ""
 
 ---
+
+### When you open an issue for a feature request, please add as much detail as possible:
 
 * A descriptive title
 * A description of the problem you're trying to solve, including **why** you think this is a problem
