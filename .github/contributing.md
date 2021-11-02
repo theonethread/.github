@@ -18,7 +18,7 @@ First off, thanks for taking the time to contribute, all types of contributions 
 
 ## Rules
 
-When contributing to this repository, please first discuss the change you wish to introduce with the owners via issue, email, or any other method.
+When contributing to this repository, please first discuss the change you wish to introduce with the owner(s) via issue, email, or any other method.
 
 > _**NOTE:** You must never report security related issues, vulnerabilities or bugs to the issue tracker, or elsewhere in public. The **Falkor Framework** supports a healthy and ubiquitous Internet Immune System enabled by security research, reporting, and disclosure. Check out our [Vulnerability Disclosure Policy](https://github.com/theonethread/falkor-commander/security/policy "Open") - based on [disclose.io](https://disclose.io "Visit")'s best practices._
 
