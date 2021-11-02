@@ -34,7 +34,7 @@ When contributing to this repository, please first discuss the change you wish t
 
 Please note that this project is released with a [Contributor Code of Conduct](https://github.com/theonethread/.github/blob/master/code-of-conduct.md "Visit"). By participating in this project you agree to abide by its terms.
 
-## Developer's Certificate of Origin 1.1
+## Developer's Certificate of Origin - v1.1
 
 By making a contribution to this project, I certify that:
 
