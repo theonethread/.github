@@ -28,7 +28,7 @@ When contributing to this repository, please first discuss the change you wish t
 * At least two contributors, or one core member must approve pull-requests prior to merging.
 * All integrated CI services must be green before a pull-request can be merged.
 * A lead maintainer must merge SemVer-major changes in all repositories.
-* In case it is not possible to reach consensus in a pull-request, the decision is left to the lead maintainers.
+* In case it is not possible to reach consensus in a pull-request, the decision is left to the lead maintainer(s).
 
 ## Code of Conduct
 
@@ -45,6 +45,6 @@ By making a contribution to this project, I certify that:
 
 ## **License**
 
-[MIT](https://github.com/theonethread/.github/blob/master/license.txt "Open")
+All **Falkor Framework** modules are free and open source software under the [MIT](https://github.com/theonethread/.github/blob/master/license.txt "Open") license.
 
 _©2020-2021 Barnabas Bucsy - All rights reserved._
