@@ -12,7 +12,7 @@ First off, thanks for taking the time to contribute, all types of contributions 
 
 > _And if you like the project, but just don't have time to contribute, that's fine. There are other easy ways to support the project and show your appreciation, which we would also be very happy about:_
 > - _Star the project_
-> - _Tweet about it_
+> - _Tweet / post about us_
 > - _Refer this project in your project's readme_
 > - _Mention the project at local meetups and tell your friends / colleagues_
 
@@ -27,7 +27,7 @@ When contributing to this repository, please first discuss the change you wish t
 * Contributors should attempt to adhere to the prevailing code-style.
 * At least two contributors, or one core member must approve pull-requests prior to merging.
 * All integrated CI services must be green before a pull-request can be merged.
-* A lead maintainer must merge SemVer-major changes in this repository.
+* A lead maintainer must merge SemVer-major changes in all repositories.
 * In case it is not possible to reach consensus in a pull-request, the decision is left to the lead maintainers.
 
 ## Code of Conduct
@@ -42,5 +42,9 @@ By making a contribution to this project, I certify that:
 * (b) The contribution is based upon previous work that, to the best of my knowledge, is covered under an appropriate open source license and I have the right under that cense to submit that work with modifications, whether created in whole or in part by me, under the same open source license (unless I am permitted to submit under a different license), as indicated in the file; or
 * (c) The contribution was provided directly to me by some other person who certified (a), (b) or (c) and I have not modified it.
 * (d) I understand and agree that this project and the contribution are public and that a record of the contribution (including all personal information I submit with it, including my sign-off) is maintained indefinitely and may be redistributed consistent with this project or the open source license(s) involved.
+
+## **License**
+
+[MIT](https://github.com/theonethread/falkor-library/blob/master/license.txt "Open")
 
 _©2020-2021 Barnabas Bucsy - All rights reserved._
