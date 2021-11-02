@@ -45,6 +45,6 @@ By making a contribution to this project, I certify that:
 
 ### **License**
 
-All **Falkor Framework** modules are free and open source software under the [MIT](https://github.com/theonethread/.github/blob/master/license.txt "Open") license.
+All **Falkor Framework** modules are free- and open source software under the [MIT](https://github.com/theonethread/.github/blob/master/license.txt "Open") license.
 
 _©2020-2021 Barnabas Bucsy - All rights reserved._
