@@ -30,20 +30,20 @@ When contributing to this repository, please first discuss the change you wish t
 * A lead maintainer must merge SemVer-major changes in all repositories.
 * In case it is not possible to reach consensus in a pull-request, the decision is left to the lead maintainer(s).
 
-## Code of Conduct
+## Legal
 
-Please note that this project is released with a [Contributor Code of Conduct](https://github.com/theonethread/.github/blob/master/code-of-conduct.md "Visit"). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](https://github.com/theonethread/.github/blob/master/code-of-conduct.md "Visit"). By participating in this project you agree to abide by its terms. By making a contribution to this project, you also agree to the following DCO:
 
-## Developer's Certificate of Origin - v1.1
+### Developer's Certificate of Origin - v1.1
 
-By making a contribution to this project, you certify that:
+By making a contribution to this project, I certify that:
 
 * (a) The contribution was created in whole or in part by me and I have the right to submit it under the open source license indicated in the file; or
 * (b) The contribution is based upon previous work that, to the best of my knowledge, is covered under an appropriate open source license and I have the right under that cense to submit that work with modifications, whether created in whole or in part by me, under the same open source license (unless I am permitted to submit under a different license), as indicated in the file; or
 * (c) The contribution was provided directly to me by some other person who certified (a), (b) or (c) and I have not modified it.
 * (d) I understand and agree that this project and the contribution are public and that a record of the contribution (including all personal information I submit with it, including my sign-off) is maintained indefinitely and may be redistributed consistent with this project or the open source license(s) involved.
 
-## **License**
+### **License**
 
 All **Falkor Framework** modules are free and open source software under the [MIT](https://github.com/theonethread/.github/blob/master/license.txt "Open") license.
 
