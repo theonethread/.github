@@ -14,7 +14,7 @@ First off, thanks for taking the time to contribute, all types of contributions 
 > - _Star the project_
 > - _Tweet / post about us_
 > - _Refer this project in your project's readme_
-> - _Mention the project at local meetups and tell your friends / colleagues_
+> - _Mention the project at local meetups and tell your friends / colleagues about it_
 
 ## Rules
 
