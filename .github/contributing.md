@@ -45,6 +45,6 @@ By making a contribution to this project, I certify that:
 
 ## **License**
 
-[MIT](https://github.com/theonethread/falkor-library/blob/master/license.txt "Open")
+[MIT](https://github.com/theonethread/.github/blob/master/license.txt "Open")
 
 _©2020-2021 Barnabas Bucsy - All rights reserved._

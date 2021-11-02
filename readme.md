@@ -8,4 +8,8 @@
 * [feature-request.md](https://github.com/theonethread/.github/blob/master/.github/ISSUE_TEMPLATE/feature-request.md "Open")
 * [funding.yml](https://github.com/theonethread/.github/blob/master/.github/funding.yml "Open")
 
+## **License**
+
+[MIT](https://github.com/theonethread/.github/blob/master/license.txt "Open")
+
 _©2020-2021 Barnabas Bucsy - All rights reserved._
